@@ -1,0 +1,31 @@
+{
+    "tasasDeCambio": {
+        "ars": 1,
+        "usd": 960,
+        "eur": 1015,
+        "gbp": 1170,
+        "brl": 192
+    },
+    "monedas": [
+        {
+            "nombre": "Dólar Estadounidense",
+            "codigo": "USD",
+            "tasaDeCambio": 1
+        },
+        {
+            "nombre": "Euro",
+            "codigo": "EUR",
+            "tasaDeCambio": 0.85
+        },
+        {
+            "nombre": "Libra Esterlina",
+            "codigo": "GBP",
+            "tasaDeCambio": 0.75
+        },
+        {
+            "nombre": "Real",
+            "codigo": "BRL",
+            "tasaDeCambio": "192"
+        }
+    ]
+}
