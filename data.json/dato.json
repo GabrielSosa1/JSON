@@ -25,7 +25,7 @@
         {
             "nombre": "Real",
             "codigo": "BRL",
-            "tasaDeCambio": "192"
+            "tasaDeCambio": 192
         }
     ]
 }
